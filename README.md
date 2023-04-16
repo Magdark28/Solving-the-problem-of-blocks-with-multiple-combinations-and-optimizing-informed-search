@@ -1,5 +1,6 @@
 # Solving-the-problem-of-blocks-with-multiple-combinations-and-optimizing-informed-search
 This repository is a project that addresses the problem of blocks, a classic challenge in artificial intelligence that involves moving blocks from one place to another following certain rules. In this project, we developed solutions for two of the biggest challenges in this problem: dimensionality and informed search.
+![](https://www.rose-hulman.edu/class/cs/archive/other-old/archive/fall06/materials/search_project_files/image003.gif)
 
 The first achievement of this project was to solve the problem of dimensionality in the block environment. Traditionally, the block environment only allowed for a single possible combination of blocks, which limited the solution to a very small number of scenarios. We developed a general solution that allows for working with any number of blocks, greatly increasing the number of possible combinations and, therefore, the level of complexity of the problem.
 
