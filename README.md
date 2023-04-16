@@ -9,8 +9,7 @@ This repository contains all the source code used in this project, as well as th
 
 Steps to use the repository:
 
-Clone this repository to your local machine using the command "git clone https://github.com/[username]/[repository name]" in your terminal.
-Explore the source code in the "src" folder, where you will find all our implementations to solve the block problem with multiple combinations and the informed search heuristics.
-Run unit tests using the command "python -m unittest discover -s tests" in your terminal to make sure everything works correctly.
-Use our solution to solve the block problem with your own data sets, following the detailed instructions in our documentation.
-If you want to reproduce our experiments, use the data sets we provide in the "data" folder and follow the detailed instructions in our documentation."
+  1)Clone this repository to your local machine using the command "git clone https://github.com/[username]/[repository name]" in your terminal.
+  
+  2)Explore the source code in the "src" folder, where you will find all our implementations to solve the block problem with multiple combinations and the     informed search heuristics.
+
