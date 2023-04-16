@@ -10,7 +10,7 @@ This repository contains all the source code used in this project, as well as th
 
 Steps to use the repository:
 
-  *1)Clone this repository to your local machine using the command "git clone https://github.com/[username]/[repository name]" in your terminal.
+*Clone this repository to your local machine using the command "git clone https://github.com/[username]/[repository name]" in your terminal.*
   
-  *2)Explore the source code in the "src" folder, where you will find all our implementations to solve the block problem with multiple combinations and the     informed search heuristics.
+* Explore the source code in the "src" folder, where you will find all our implementations to solve the block problem with multiple combinations and the     informed search heuristics.
 
