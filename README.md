@@ -1,0 +1,2 @@
+# Solving-the-problem-of-blocks-with-multiple-combinations-and-optimizing-informed-search
+This repository is a project that addresses the problem of blocks, a classic challenge in artificial intelligence that involves moving blocks from one place to another following certain rules. In this project, we developed solutions for two of the biggest challenges in this problem: dimensionality and informed search.
